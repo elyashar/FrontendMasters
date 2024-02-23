@@ -1,3 +1,10 @@
+body {
+    font-family: Gloria Hallelujah;
+    color: rgb(75, 64, 117);
+    /* text-decoration: none; */
+}
+
+
 .gloria-hallelujah-regular {
     font-family: "Gloria Hallelujah", cursive;
     font-weight: 400;
@@ -7,7 +14,9 @@
 .list {
     display: flex;
     justify-content: left;
+    width: 200px;
+    background-color: rgb(90, 219, 154);
     /* padding: 10rem; */
-    font: 2rem solid grey;
-    border: 0.5rem solid grey;
+    font-size: 1.4rem;
+    border: 0.1rem solid rgb(85, 84, 84);
 }
