@@ -4,7 +4,6 @@ body {
     /* text-decoration: none; */
 }
 
-
 .gloria-hallelujah-regular {
     font-family: "Gloria Hallelujah", cursive;
     font-weight: 400;
@@ -15,8 +14,7 @@ body {
     display: flex;
     justify-content: left;
     width: 200px;
-    background-color: rgb(90, 219, 154);
-    /* padding: 10rem; */
+    background-color: rgb(235, 232, 108);
     font-size: 1.4rem;
-    border: 0.1rem solid rgb(85, 84, 84);
+    border: 0.1rem dashed rgb(85, 84, 84);
 }
